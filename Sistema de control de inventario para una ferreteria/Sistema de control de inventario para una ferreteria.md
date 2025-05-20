@@ -1,4 +1,4 @@
-#Sistema de Control de Inventario para una Ferretería
+# Sistema de Control de Inventario para una Ferretería
 ## Introducción:
 Una ferretería local con varias sucursales desea automatizar y centralizar el control de su inventario de productos, ya que actualmente utilizan hojas de cálculo distintas por sucursal, lo cual complica la gestión general.
 
